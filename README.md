@@ -1,4 +1,14 @@
-### Hi there 👋
+## Howdy 🤠
+Working on all things data science with Python and R. 
+
+## Write ups:
+1. [Data Analytics Capstone Case Study](https://medium.com/data-marketing-philosophy/data-analytics-capstone-case-study-c3944c0c2be) 📝
+
+
+## Other sites:
+- [Data Marketing Philosophy](https://medium.com/data-marketing-philosophy)
+- [Medium](https://haydavid.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/haydavid/)
 
 <!--
 **hayitsdavid/hayitsdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
