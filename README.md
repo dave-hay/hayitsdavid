@@ -6,11 +6,6 @@ Working on all things data science with Python and R.
 2. [Use Python and NLP to Boost Your Resume](https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9) 👔 
 
 
-## Other sites:
-- [Data Marketing Philosophy](https://medium.com/data-marketing-philosophy)
-- [Medium](https://haydavid.medium.com/)
-- [LinkedIn](https://www.linkedin.com/in/haydavid/)
-
 <!--
 **hayitsdavid/hayitsdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
