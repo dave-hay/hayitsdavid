@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# testREADME
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayitsdavid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayitsdavid&layout=compact&exclude_repo=CS61B)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayitsdavid&repo=wordle-cloned)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github.com/anuraghazra/github-readme-stats
 -->
