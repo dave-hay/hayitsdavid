@@ -78,15 +78,14 @@
 </p>
 
 <!--
-
-
+ALL ICONS HERE
+https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 
     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
 
     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GOOGLECLOUD&color=cdd148&style=plastic&logo=googlecloud"/>
 ## Write ups:
 1. [Data Analytics Capstone Case Study](https://medium.com/data-marketing-philosophy/data-analytics-capstone-case-study-c3944c0c2be) 📝
 2. [Use Python and NLP to Boost Your Resume](https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9) 👔
