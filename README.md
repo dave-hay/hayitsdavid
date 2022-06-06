@@ -1,10 +1,13 @@
 <h1 align="center">Howdy 🤠</h1>
 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://davidhay.me/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davidhaydev@proton.me)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydavid/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hayitsdavid)
+
+<h1 align="center">About</h1>
+<p>The first time I made a web app and saw I could take an idea and turn it into a reality, I was hooked. I blend this passion with a background as an award-winning marketer, with expertise in design and managing large scale web projects to provide the necessary skills a company needs to have on their team to build top-tier software. Feel free to reach out and look forward to connecting!</p>
+
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -70,13 +73,8 @@
 
 <!--
 ALL ICONS HERE
-https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+https://github.com/Ileriayo/markdown-badges
 
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-
-    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
 ## Write ups:
 1. [Data Analytics Capstone Case Study](https://medium.com/data-marketing-philosophy/data-analytics-capstone-case-study-c3944c0c2be) 📝
 2. [Use Python and NLP to Boost Your Resume](https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9) 👔
