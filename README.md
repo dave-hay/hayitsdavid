@@ -40,7 +40,7 @@
       <h3 align="center">Wordle Cloned</h3>
         <br />
       <a target="_blank" href="https://wordle-cloned.netlify.app/">
-            <img src="images/wordlecloned.gif" width="100%"  alt="wordle cloned"/>
+            <img src="images/wordleclone.gif" width="100%"  alt="wordle cloned"/>
         </a>
         <br />
         <p align="center">
