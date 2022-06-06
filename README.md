@@ -56,11 +56,6 @@
     </td>
   </tr>
 </table>
-<!--
-
-<img src="https://img.shields.io/twitter/follow/hayitsdavid?style=social">
-
--->
 
 <h1 align="center">Technologies</h1>
 <p align="center">
@@ -72,16 +67,31 @@
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=POSTGRES&color=98bf53&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GOOGLECLOUD&color=cdd148&style=plastic&logo=googlecloud"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GO&color=bbb111&style=plastic&logo=go"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=RUST&color=bbb111&style=plastic&logo=rust"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=VIM&color=cbb148&style=plastic&logo=vim"/>
 </p>
 
 <!--
+
+
+
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+
+    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GOOGLECLOUD&color=cdd148&style=plastic&logo=googlecloud"/>
 ## Write ups:
 1. [Data Analytics Capstone Case Study](https://medium.com/data-marketing-philosophy/data-analytics-capstone-case-study-c3944c0c2be) 📝
 2. [Use Python and NLP to Boost Your Resume](https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9) 👔
 
+<img src="https://img.shields.io/twitter/follow/hayitsdavid?style=social">
 
 **hayitsdavid/hayitsdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
