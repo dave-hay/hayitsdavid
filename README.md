@@ -22,7 +22,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Jobioto</h3>
         <br />
         <a target="_blank" href="https://www.jobioto.com/">
             <img src="images/jobioto.gif" width="100%" alt="Jobioto"/>
@@ -40,7 +40,7 @@
       <h3 align="center">Wordle Cloned</h3>
         <br />
       <a target="_blank" href="https://wordle-cloned.netlify.app/">
-            <img src="images/wordle-cloned.gif" width="100%"  alt="wordle cloned"/>
+            <img src="images/wordlecloned.gif" width="100%"  alt="wordle cloned"/>
         </a>
         <br />
         <p align="center">
