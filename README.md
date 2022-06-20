@@ -29,7 +29,7 @@
         <p><strong>TypeScript, React, Python, & Flask</strong> - Web App where users enter a job post url and are generated an interactive display containing useful data points to help them quickly tailor their resume.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wordle Cloned</h3>
+      <h3 align="center">Wordle Web App</h3>
         <br />
       <a target="_blank" href="https://wordle-cloned.netlify.app/">
             <img src="images/wordleclone.gif" width="100%"  alt="wordle cloned"/>
